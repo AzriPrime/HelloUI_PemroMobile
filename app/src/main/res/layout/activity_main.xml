@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/rootLayout"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:gravity="center"
+              android:padding="32dp">
+
+    <EditText
+            android:id="@+id/myInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="TextInput (Nama)"
+            android:minHeight="48dp"
+            android:background="@android:drawable/editbox_background_normal"
+            android:layout_marginBottom="20dp" />
+
+    <Button
+            android:id="@+id/myButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sapapapapa"
+            android:layout_marginBottom="20dp" />
+
+    <TextView
+            android:id="@+id/myOutput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:text="TextView"
+            android:layout_marginBottom="40dp" />
+
+    <Button
+            android:id="@+id/btnTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mode Gelap"
+            android:backgroundTint="#555555" />
+
+</LinearLayout>
