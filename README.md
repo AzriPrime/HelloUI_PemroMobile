@@ -1,12 +1,15 @@
+Nama: Muhammad Azri Rahman
+NIM: 2410817110016
+Tugas Pertemuan 1
+
+Proyek pembelajaran dasar pengembangan Android menggunakan bahasa pemrograman Kotlin. Berfungsi sebagai wadah untuk memahami interaksi dasar Input/Output antara pengguna dan sistem melalui antarmuka.
+
 Syarat Menjalankan Aplikasi:
-
-
 
 * Java Development Kit (JDK) Versi 17 atau lebih tinggi.
 * IntelliJ IDEA / Android Studio Versi terbaru dengan plugin Android yang sudah terpasang.
 * Android SDK 34 (Android 14).
 * Emulator atau Perangkat Fisik Android.
-
 
 
 Cara Menjalankan pada Intelij IDEA dan emulator (plugin):
