@@ -1,5 +1,7 @@
 Nama: Muhammad Azri Rahman
+
 NIM: 2410817110016
+
 Tugas Pertemuan 1
 
 Proyek pembelajaran dasar pengembangan Android menggunakan bahasa pemrograman Kotlin. Berfungsi sebagai wadah untuk memahami interaksi dasar Input/Output antara pengguna dan sistem melalui antarmuka.
